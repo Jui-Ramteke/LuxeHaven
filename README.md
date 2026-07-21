@@ -59,31 +59,31 @@ By toggling the "Developer View", the application transforms into an interactive
 
 ## 📸 Application Gallery
 
-![Home Screen Search](images/1.jpg)
+![Home Screen Search](images/1.png)
 *The Home Screen featuring a comprehensive search module, recent searches, and popular nearby destinations.*
 
-![Search Results & Filters](images/2.jpg)
+![Search Results & Filters](images/2.png)
 *Search results showcasing interactive filtering chips for Free Cancellation, Beachfront Location, and Breakfast.*
 
-![Property Overview & Weather Advisor](images/3.jpg)
+![Property Overview & Weather Advisor](images/3.png)
 *The Property Overview tab highlighting the Destination Climate & Packing Advisor for tailored travel preparation.*
 
-![Room Selection & Comparison](images/4.jpg)
+![Room Selection & Comparison](images/4.png)
 *Real-time room availability status with the toggleable side-by-side room comparison matrix.*
 
-![Amenities Grid](images/5.jpg)
+![Amenities Grid](images/5.png)
 *A comprehensive, icon-matched amenities and services grid for luxury properties.*
 
-![Guest Reviews & Sentiment](images/6.jpg)
+![Guest Reviews & Sentiment](images/6.png)
 *Guest feedback dashboard featuring score distribution bars, sentiment keyword tags, and individual reviews.*
 
-![Secure Checkout - Registration](images/7.jpg)
+![Secure Checkout - Registration](images/7.png)
 *Step 1 of the Secure Booking Gateway: Primary guest registration and contact details.*
 
-![Secure Checkout - Promo Codes](images/8.jpg)
+![Secure Checkout - Promo Codes](images/8.png)
 *The Privilege Club wallet applying dynamic discounts with real-time tax and total recalculations.*
 
-![Secure Checkout - Payment](images/9.jpg)
+![Secure Checkout - Payment](images/9.png)
 *Step 2: Sleek, dynamically updating credit card preview during secure payment entry.*
 
 ![Booking Confirmation](images/10.png)
