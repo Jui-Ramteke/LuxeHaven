@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Room Booking Console App",
+  "description": "A premium luxury hotel search and booking web application, featuring real-time room availability, visual checkout wizard, discount coupon management, and persistent bookings tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
